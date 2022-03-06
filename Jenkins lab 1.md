@@ -22,7 +22,7 @@ The Jenkins master is the original node in the Jenkins installation. The Jenkins
 
 2. REST API
 
-   https://imgur.com/MkM4Z78	Using Basic with login / password
+   ​  Using Basic with login / password
 
    ​	Using Basic with login / apiToken
 
@@ -54,24 +54,24 @@ Using  cron expression.
 
 **\07) Install Jenkins with docker image.**
 
-<img src="https://imgur.com/MkM4Z78" alt="image-20220306080025954" style="zoom:100%;" />
+<img src="https://i.imgur.com/MkM4Z78.png" alt="image-20220306080025954" style="zoom:100%;" />
 
 **\08) Install role-based authorization plugin.**
 
-![image-20220306080852607](https://imgur.com/iLAmrrX)
+![image-20220306080852607](https://i.imgur.com/iLAmrrX.png)
 
 **\09) Create a new user.**
 
-![image-20220306081150016](https://imgur.com/CAaTSDf)
+![image-20220306081150016](https://i.imgur.com/CAaTSDf.png)
 
 
 
 **\10) Create a read role and assign it to the new user**
 
-![image-20220306081506782](https://imgur.com/wL2jIWK)
+![image-20220306081506782](https://i.imgur.com/wL2jIWK.png)
 
 
 
 **\11) Create a freestyle project and link it to the private git repo (inside it create a directory and create a file with "hello world").**
 
-![image-20220306114334083](https://imgur.com/bec6Xvq)
+![image-20220306114334083](https://i.imgur.com/bec6Xvq.png)
